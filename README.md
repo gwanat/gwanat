@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, my name is Gabriela 👾
+I am aspiring programmer in my 3rd year of IT studies, always exploring new challenges and growing my skills 👩‍🎓
 
-<!--
-**gwanat/gwanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on my Bachelor's degree thesis web app concerning melanocytic skin lesions problem and analysis 🩺
+Besides that I am learning Odoo development on my apprenticeship journey 💻
 
-Here are some ideas to get you started:
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwanat&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwanat&langs_count=10&theme=radical)
+
+
+## Find me online:
+- [LinkedIn](https://www.linkedin.com/in/gabriela-wanat-458b56273/)
+- [Instagram](https://www.instagram.com/gabriela_wanat_/)
